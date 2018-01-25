@@ -2304,6 +2304,7 @@
 		margin: 0 0 0.7em 0;
 		display: block;
 		font-size: 1.1em;
+		font-style: black;
 	}
 
 	input[type="text"],
@@ -2930,11 +2931,11 @@
 			}
 
 			.split.style1 > :nth-child(2n - 1) {
-				width: calc(75% - 2em);
+				width: calc(70% - 2em);
 			}
 
 			.split.style1 > :nth-child(2n) {
-				width: calc(25% - 2em);
+				width: calc(30% - 2em);
 			}
 
 		}
